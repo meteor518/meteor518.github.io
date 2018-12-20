@@ -46,7 +46,7 @@ title:  "类别不平衡解决策略"
 
 ### 修改损失函数
 
-1. 最简单的-加权
+1. 最简单的-**加权**
 
 	以二分类为例,如果你的样本中0 label 特别多,而1 label 很少，这样会导致模型最后将所有样本预测为0，以保证整体 loss 最小。
 	 
@@ -58,7 +58,7 @@ title:  "类别不平衡解决策略"
 	 
 	这样最终的 loss 会 balance 掉样本不均带来的 bias。
 
-2. Focal Loss
+2. **Focal Loss**
 
 	这是何恺明大神针对类别不平衡问题的发表的论文，详情请见[原文](https://arxiv.org/abs/1708.02002)。也可以借鉴知乎评论[如何评价Kaiming的Focal Loss for Dense Object Detection？](https://www.zhihu.com/question/63581984)，加深理解。
 
