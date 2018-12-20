@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "线性和非线性的理解"
+
+---
+
+# 线性？ 非线性？
+
+
+线性和非线性的区别是：是否可以用直线将样本划分开(这个观点是对的) 
+
+logistics模型是线性还是非线性的？
+
+logistics模型是广义线性模型。 如何理解？
+
+区分一下回归和分类问题：
+
+线性模型是可以用来曲线拟合(回归)的，但是线性模型模型的分类一定是一条直线的，例如logistics模型。
+
+
+### 举例理解如下：
+![linear]({{site.url}}/images/linear/linear.png)
+![NN1]({{site.url}}/images/linear/NN1.png)
+![NN2]({{site.url}}/images/linear/NN2.png)

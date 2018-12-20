@@ -1,0 +1,50 @@
+title: 李梦霄
+subtitle: 个人博客
+description: 欢迎来到我的博客主页~
+# 头像里面的标题
+avatarTitle: meteor518
+# 头像里面的描述
+avatarDesc: 遨游知识的海洋
+url: "http://meteor518.github.io"
+
+comment:
+    # disqus: leopard
+    duoshuo: meteor518
+
+# Social
+social:
+    github: meteor518
+    mail: ecust_lmx@163.com
+
+ga:
+    id: UA-96239281-1
+    host: auto
+    
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+
+
