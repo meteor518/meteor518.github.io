@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "卷积神经网络(CNN)介绍10-欠过拟合"
+title:  "欠/过拟合"
 
 ---
 
