@@ -9,6 +9,9 @@ BN ---- Batch Normalization
 
 详情见论文[《Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift》](https://arxiv.org/abs/1502.03167)
 
+
+**文章暂未更完。。。。。。**
+
 ## 为什么深度网络会需要batchnorm？
 
 我们都知道，深度学习的话尤其是在CV上都需要对数据做归一化，因为深度神经网络主要就是为了学习训练数据的分布，并在测试集上达到很好的泛化效果，但是，如果我们每一个batch输入的数据都具有不同的分布，显然会给网络的训练带来困难。另一方面，数据经过一层层网络计算后，其数据分布也在发生着变化，此现象称为Internal Covariate Shift.（下面解释）
