@@ -13,10 +13,6 @@ logistics模型是线性还是非线性的？
 
 logistics模型是广义线性模型。 如何理解？
 
-区分一下回归和分类问题：
-
-线性模型是可以用来曲线拟合(回归)的，但是线性模型模型的分类一定是一条直线的，例如logistics模型。
-
 
 ### 举例理解如下：
 ![linear]({{site.url}}/images/linear/linear.png)

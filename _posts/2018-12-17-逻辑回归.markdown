@@ -1,7 +1,30 @@
 ---
 layout: post
-title:  "逻辑回归"
+title:  "线性模型"
 
 ---
+
+
+### 线性回归
+
+**个人笔记**
+
+![]({{site.url}}/images/regression/linear1.jpg)
+![]({{site.url}}/images/regression/linear2.jpg)
+
+[**代码实现**]()
+
+`附录：`
+
+[矩阵求导公式](https://blog.csdn.net/daaikuaichuan/article/details/80620518)
+
+个人总结的求导规律：(分母布局)
+
+简单来说，对于函数中所有的x分别计算。对于出现的x，结果就是x`前面`的部分`整体转置`乘以x`后面`部分`整体转置`；对于出现的x^T，结果就是x^T的`后面整体`乘以`前面的整体部分`。
+
+
+### 逻辑回归
+
+**个人笔记**
 
 

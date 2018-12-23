@@ -32,7 +32,12 @@ W是卷积前后图像的宽度；F是filter的宽度(即，kernel_size大小)�
 
 对于`彩色图像三通道(RGB)`的卷积过程如下图所示：
 ![conv]({{site.url}}/images/CNN/conv2.gif)
+
 其他变形的卷积操作见[博客](https://blog.csdn.net/lqfarmer/article/details/78221858)
+
+平铺卷积(tiled cnn)请见[各种类型的卷积](https://blog.csdn.net/github_36326955/article/details/72829041)或者[Tiled CNN](https://blog.csdn.net/qq_42707449/article/details/81223155)
+
+介绍
 
 ### <a name="parameters-compute"></a> 网络层参数计算
 
