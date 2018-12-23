@@ -9,6 +9,8 @@ title:  "线性模型"
 
 **个人笔记**
 
+之前学习的时候自己记录的笔记，字有些丑啊，不要吐槽。。会伤心的，呜呜(T＿T)。。不要要求太多，能看懂就行。。。O(∩＿∩)O哈哈~
+
 ![]({{site.url}}/images/regression/linear1.jpg)
 ![]({{site.url}}/images/regression/linear2.jpg)
 
