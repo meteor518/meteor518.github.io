@@ -14,7 +14,10 @@ title:  "线性模型"
 ![]({{site.url}}/images/regression/linear1.jpg)
 ![]({{site.url}}/images/regression/linear2.jpg)
 
-[**代码实现**]()
+**代码实现**
+
+待补。。。
+
 
 `附录：`
 
@@ -29,4 +32,10 @@ title:  "线性模型"
 
 **个人笔记**
 
+![]({{site.url}}/images/regression/logistic1.jpg)
+![]({{site.url}}/images/regression/logistic2.jpg)
+![]({{site.url}}/images/regression/logistic3.jpg)
 
+**代码实现**
+
+待补。。。
