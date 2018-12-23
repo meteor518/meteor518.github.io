@@ -16,7 +16,7 @@ title:  "线性模型"
 
 `附录：`
 
-[矩阵求导公式](https://blog.csdn.net/daaikuaichuan/article/details/80620518)
+[常用矩阵求导公式](https://blog.csdn.net/daaikuaichuan/article/details/80620518)
 
 个人总结的求导规律：(分母布局)
 
